@@ -61,4 +61,4 @@ def process():
 
 
 if __name__ == '__main__':
-	app.run(thread=True)
+	app.run(threaded=True)
